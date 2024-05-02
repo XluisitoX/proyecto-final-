@@ -56,3 +56,25 @@ color: black;
 margin-bottom: 20px;
 
 }
+@media ( min-width:400px) {
+	body{
+		background-color: blue;
+	}
+}
+@media ( max-width:700px) {
+	body{
+		background-color: red;
+	}
+}
+.caja4{
+	position: center;
+	top: 500px;
+	left: 900px;
+}
+.caja5{
+	position:center;
+
+
+	top: 1200px;
+	left: 10px;
+}
